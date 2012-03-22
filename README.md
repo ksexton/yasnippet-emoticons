@@ -2,29 +2,29 @@
 
 Collection of emoticons for use with yasnippet
 
-* fliptable
+## fliptable
 (╯°□°）╯︵ ┻━┻
-* flower
+## flower
 ♡(✿ˇ◡ˇ)人(ˇ◡ˇ✿)♡
-* hug
+## hug
 ヽ(´ー｀)ノ
-* hug1
+## hug1
 (づ｡◕‿◕｡)づ
-* hug2
+## hug2
 (づ｡◕‿‿‿‿◕｡)づ
-* kiss
+## kiss
 ( ¯3¯)
-* lod
+## lod
 ಠ_ಠ
-* mad
+## mad
 (╬ ಠ益ಠ)
-* smile
+## smile
 (｡◕‿◕｡)
-* spider
+## spider
 /╲/\╭ºoꍘoº╮/\╱\
-* supson
+## supson
 ¯\_(ツ)_/¯
-* xd
+## xd
 ( ˃ ヮ˂)
-* yudothis
+## yudothis
 щ(ﾟДﾟщ)
