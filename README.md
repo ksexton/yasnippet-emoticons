@@ -28,3 +28,15 @@ Collection of emoticons for use with yasnippet
 ( ˃ ヮ˂)
 ## yudothis
 щ(ﾟДﾟщ)
+## Pass
+［✔］Pass［ ］Fail
+## Fail
+［ ］Pass［✔］Fail
+## Yes
+［✔］Yes［ ］No
+## No
+［ ］Yes［✔］No
+## Win
+［✔］Win［ ］Lose
+## Lose
+［ ］Win［✔］Lose
