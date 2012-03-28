@@ -40,3 +40,5 @@ Collection of emoticons for use with yasnippet
 ［✔］Win［ ］Lose
 ## Lose
 ［ ］Win［✔］Lose
+## YEEEAAAHHH
+(⌐■_■) ...( •_•)> ⌐■-■ ...( •_•) ...YEEEAAAHHH!
